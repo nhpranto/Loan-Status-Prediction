@@ -1,4 +1,4 @@
-Loan Status Prediction
+# Loan Status Prediction
 Overview
 
 This project predicts whether a loan application will be approved or rejected using machine learning. It uses applicant financial and personal information to train a classification model and evaluate its performance.
