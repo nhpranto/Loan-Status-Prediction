@@ -2,19 +2,15 @@
 Overview
 
 This project predicts whether a loan application will be approved or rejected using machine learning. It uses applicant financial and personal information to train a classification model and evaluate its performance.
-
 The project is implemented in a single Jupyter Notebook and is easy to run and understand.
 
-Dataset
+Dataset:
 
 The dataset includes common loan application features such as:
 
 Applicant income
-
 Co-applicant income
-
 Loan amount
-
 Loan term
 
 Credit history
